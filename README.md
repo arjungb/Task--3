@@ -1,2 +1,2 @@
-# Task--3
-TASK-3: CREATE A LOGIN SIGNUP PAGE USING HTML, CSS, SQL, PHP.
+# Task-3
+Build a Login and Signup Page using - Html,Css for frontend - MYSQL as Database - PHP to connect the frontend with backend
